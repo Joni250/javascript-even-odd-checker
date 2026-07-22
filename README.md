@@ -9,6 +9,10 @@ A simple, responsive, and interactive **Even & Odd Checker** built using **HTML5
 This project was created to practice the fundamentals of JavaScript, including user input handling, conditional statements, event handling, and DOM manipulation. It features a clean and responsive interface designed with Bootstrap 5.
 
 ---
+## 📸 Project Preview
+
+![Project Preview](https://raw.githubusercontent.com/Joni250/javascript-even-odd-checker/main/preview.png)
+---
 
 ## ✨ Features
 
@@ -71,15 +75,6 @@ git clone https://github.com/Joni250/javascript-even-odd-checker.git
 
 ---
 
-## 📸 Project Preview
-
-> Add your project screenshot below.
-
-```markdown
-![Project Preview](preview.png)
-```
-
----
 
 ## 🌐 Live Demo
 
